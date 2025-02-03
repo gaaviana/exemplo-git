@@ -1,4 +1,4 @@
-# Exemplo de repositótio com colaboladores
+# Exemplo de repositório com colaboladores
 
 ## Recursos
 
